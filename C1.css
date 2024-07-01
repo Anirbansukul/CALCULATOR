@@ -1,0 +1,36 @@
+header{
+    margin:45%;
+}
+#main{
+    height:600px;
+    width:400px;
+    border:2px solid black;
+    margin:5%;
+}
+#input{
+    padding:2px;
+}
+#I1{
+    height:40px;
+    width:388px;
+}
+#bt{
+display:flex;
+flex-wrap: wrap;
+justify-content:space-evenly;
+padding:5%;
+}
+.button{
+    height:80px;
+    width:120px;
+    background-color:red;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button:hover{
+    height:80px;
+    width:120px;
+    background-color:gold;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
